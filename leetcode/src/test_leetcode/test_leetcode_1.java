@@ -1,9 +1,9 @@
-package test_useJava;
+package test_leetcode;
+
+import leetcode.leetcode_1_TwoSum;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
-import useJava.leetcode_1_TwoSum;
 
 public class test_leetcode_1 {
 	private int[] nums;
