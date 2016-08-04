@@ -1,0 +1,9 @@
+---
+VM version: Feb  5 2016 12:09:18 - 71_REL - optU - windows amd64 - 6 - bas2:262829 (mixed mode)
+
+Time:2016-06-1419:32:34
+Pid: 20660
+Hostname: PVGN50865993A
+current dir: C:\Mercury\workspace\project_1
+---
+   :    [17728] 19:32:34 ***ERROR (:0): Java assert: "twoSum method have some thing wrong! expected:<7> but was:<2>" in org.junit.Assert.fail(Assert.java:88)
