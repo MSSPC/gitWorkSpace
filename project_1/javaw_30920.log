@@ -1,0 +1,9 @@
+---
+VM version: Feb  5 2016 12:09:18 - 71_REL - optU - windows amd64 - 6 - bas2:262829 (mixed mode)
+
+Time:2016-08-0621:05:21
+Pid: 30920
+Hostname: PVGN50865993A
+current dir: C:\Mercury\workspace\project_1
+---
+   :    [25308] 21:05:21 ***ERROR (:0): StackOverflowError
